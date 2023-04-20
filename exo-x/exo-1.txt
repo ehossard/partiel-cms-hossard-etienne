@@ -1,0 +1,17 @@
+Un CMS est un système de gestion de contenu qui permet de créer et publier du contenu sur un site web
+ sans coder ou très peu. 
+ Il fournit une interface simple et permet aux utilisateurs de collaborer 
+ sur la création et la mise à jour du contenu. 
+ Les CMS les plus courants sont par exmple : WordPress, Drupal, Joomla.
+
+
+ Les CMS sont conçus pour rendre la création et la gestion de contenu sur un site web plus facile et plus efficace.
+
+Les CMS sont souvent utilisés pour créer des blogs, des sites vitrines, 
+des sites de commerce électronique, des sites de médias, des forums...
+
+Certains CMS sont Open Source (Wordpress...) et sont connus pour leur communauté active de développeurs et d'utilisateurs 
+qui partagent des connaissances sur les meilleures pratiques et des ressources plugins entre autres.
+
+En bref, avec des CMS, il est possible de faire très bien des choses simple, mais il est compliqué de personnaliser à fond,
+que ce soit l'aspet visuel ou technique.
