@@ -1,0 +1,1 @@
+SELECT lastName FROM User INNER JOIN Car ON User.carID WHERE color = "red" ORDER BY lastName DESC
