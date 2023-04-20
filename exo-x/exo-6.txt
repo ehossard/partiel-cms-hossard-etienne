@@ -1,0 +1,4 @@
+INSERT INTO 'Brand' ('brandLabel')
+
+VALUES 
+('Ferrari');
