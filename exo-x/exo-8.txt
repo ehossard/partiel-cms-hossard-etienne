@@ -1,0 +1,8 @@
+SQL : Reltionnelle  
+NoSQL : Non relationnelle
+
+SQL : Requette pour recup des données
+NoSQL : Autre
+
+SQL : Sous forme de Tables
+NoSQL : Autre
